@@ -1,0 +1,26 @@
+.jumbotron{
+    background-color:white;
+border-radius:20px;
+border: 2px solid rgb(117, 116, 116);
+text-align: center;
+box-shadow: 2px 2px 2px rgb(75, 71, 71);
+}
+
+    h2{
+        text-align: center;
+        color:purple;
+    }
+
+    .container {
+    margin-left:25%;
+ 
+    }
+
+    .btn-primary{
+
+        border-radius:28px;
+        background-color:#0000cd;
+        height:50px;
+        width:150px;
+        box-shadow: 5px 2px 2px rgb(138, 133, 133);
+}
